@@ -1,0 +1,22 @@
+body { background-color: #434435; } /* общий фон */
+   .CV {
+      width: 675px;   /* ширина */
+      height: 945px; /* высота */
+      padding: 40px 30px 40px 60px; /* внутренние отступы - верх, право, низ, лево */
+      margin: 40px auto;  /* выравнивание по центру */ 
+      box-shadow: 6px 6px 12px black; /* небольшая тень для объемности */
+      background-color: white;  /* цвет фона в блоке */
+      font-family:  "Helvetica"; /* нужный шрифт */
+      font-size: 87%;
+      
+    }
+
+    .Header {
+      font-size: 125%;
+      margin-top: 11px;
+      margin-bottom: 11px;
+    }
+    .Line {
+      margin-top: 0px;
+      margin-bottom: 11px;
+    }
