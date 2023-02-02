@@ -1,12 +1,12 @@
-body { background-color: #434435; } /* общий фон */
+body { background-color: #3f3f3d; } 
    .Portfolio {
-      width: 675px;   /* ширина */
-      height: 945px; /* высота */
-      padding: 40px 30px 40px 60px; /* внутренние отступы - верх, право, низ, лево */
-      margin: 40px auto;  /* выравнивание по центру */ 
-      box-shadow: 6px 6px 12px black; /* небольшая тень для объемности */
-      background-color: white;  /* цвет фона в блоке */
-      font-family:  "Helvetica"; /* нужный шрифт */
+      width: 675px;  
+      height: 945px;
+      padding: 40px 30px 40px 60px; 
+      margin: 40px auto; 
+      box-shadow: 6px 6px 12px black; 
+      background-color: white; 
+      font-family:  "Helvetica"; 
       font-size: 87%;
       
     }
